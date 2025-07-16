@@ -47,11 +47,11 @@ Built to support **DevSecOps pipelines**, this tool helps teams identify outdate
 git clone https://github.com/addharshini/DepSentinel.git
 cd DepSentinel
 ```
-3. Install dependencies
+2. Install dependencies
 `pip install -r requirements.txt` 
 
-4.  Run the Streamlit app
-`streamlit run streamlit_app.py` 
+3.  Run the Streamlit app
+`python -m streamlit run streamlit_app.py` 
 
 * * *
 

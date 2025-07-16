@@ -2,7 +2,7 @@
  DepSentinel
 ------------
 
-**DepSentinel** is a Python-based tool with a Streamlit UI that scans your project's `requirements.txt` file, checks for outdated dependencies using PyPI, and notifies developers through an interactive dashboard or email alerts.
+**DepSentinel** is a Python-based tool with a Streamlit UI that scans your project's `requirements.txt` file, checks for vulnerable dependencies using PyPI, and notifies developers through an interactive dashboard or email alerts.
 
 Built to support **DevSecOps pipelines**, this tool helps teams identify outdated Python packages early, reducing security and stability risks.
 
